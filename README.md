@@ -34,7 +34,7 @@ An interactive Power BI dashboard designed to analyze call center performance. I
 
 ## 📷 Screenshots
 ### Executive Overview  
-![overview](https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/blob/main/Screenshot%202025-07-14%20194926.jpg)
+![overview](https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/blob/main/Screenshot%202025-07-14%20194704.jpg)
 
 ### Performance Analysis  
 ![Performance Analysis](https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/blob/main/Screenshot%202025-07-14%20195841.jpg)
